@@ -4,12 +4,12 @@
     "packageName": "com.lemon.lvoverseas",
     "versionCode": 15506940,
     "updateUrl": "https://t.me/romanticboymizan1",
-    "title": "System Update",
-    "description": "অ্যাপটির কার্যক্ষমতা বাড়াতে নতুন আপডেটটি গ্রহণ করুন।",
-    "isForce": true,
+    "title": "Update Available",
+    "description": "নতুন আপডেট এসেছে, আপনি চাইলে আপডেট করে নিতে পারেন।",
+    "isForce": false,
     "isExpired": false,
-    "expiryDate": "2027-05-31",
-    "closeButtonText": "Cancel",
+    "expiryDate": "2026-05-31",
+    "closeButtonText": "Dismiss",
     "updateButtonText": "Update Now"
   }
 ]
