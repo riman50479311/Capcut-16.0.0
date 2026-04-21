@@ -2,14 +2,14 @@
   {
     "appName": "CapCut",
     "packageName": "com.lemon.lvoverseas",
-    "versionCode": 15506930,
+    "versionCode": 15506931,
     "updateUrl": "https://t.me/romanticboymizan1",
-    "title": "App Has Expired",
-    "description": "Your app version is too old and no longer supported. Please update to the latest version.",
+    "title": "New Update Available",
+    "description": "অ্যাপের নতুন আপডেট চলে এসেছে। উন্নত পারফরম্যান্সের জন্য এখনই আপডেট করে নিন।",
     "isForce": true,
-    "isExpired": true,
-    "expiryDate": "2027-04-04",
+    "isExpired": false,
+    "expiryDate": "2026-04-21",
     "closeButtonText": "Cancel",
-    "updateButtonText": "Get Update"
+    "updateButtonText": "Update Now"
   }
 ]
